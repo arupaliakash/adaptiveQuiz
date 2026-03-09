@@ -1,0 +1,27 @@
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.sqlite3
+
+# Node.js/Frontend-related files
+node_modules/
+*.log
+.env
+
+# IDE/Editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Uploads/Generated files
+uploads/
+
+# Build/Dist files
+dist/
+build/
